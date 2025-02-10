@@ -8,7 +8,7 @@
 
 Проект написан на Python и придерживается [GitFlow](https://datasithu.medium.com/a-gentle-introduction-to-git-flow-7f849c9b7f2) для ведения разработки.
 
-## Установка
+## Установка продукта
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/username/my_bank_operations_project.git
